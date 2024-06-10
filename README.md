@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHRANKR
-- 👀 I’m interested in web developing and mobile apps development
-- 🌱 I’m currently learning SQL 
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on web developing programs
 - 📫 reach me at charancharlie62@gmail.com 
 
